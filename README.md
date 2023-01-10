@@ -1,7 +1,7 @@
-# ICS2O-PWA-Template
+# ICS2O-Assignment-5
 
-[![Mr Coxall's Super Linter](https://github.com/andre-deveau/ICS20-PWA-Template/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/andre-deveau/ICS20-PWA-Template/actions/)
+[![Mr Coxall's Super Linter](https://github.com/andre-deveau/ICS2O-Assignment-5/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/andre-deveau/ICS2O-Assignment-5/actions)
 
-[![Run on Repl.it](https://repl.it/badge/github/andre-deveau/ICS20-PWA-Template)](https://repl.it/github/andre-deveau/ICS20-PWA-Template)
+[![Run on Repl.it](https://repl.it/badge/github/andre-deveau/ICS2O-Assignment-5)](https://repl.it/github/andre-deveau/ICS2O-Assignment-5)
 
-This site can be found at: [https://andre-deveau.github.io/ICS20-PWA-Template](https://andre-deveau.github.io/ICS20-PWA-Template)
+This site can be found at: [https://andre-deveau.github.io/ICS2O-Assignment-5/](https://andre-deveau.github.io/ICS2O-Assignment-5/)
